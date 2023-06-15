@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a669907e.chunk.css",
+    "main.js": "/static/js/main.2800641c.chunk.js",
+    "main.js.map": "/static/js/main.2800641c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0f71f331.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0f71f331.js.map",
+    "static/css/2.558a6447.chunk.css": "/static/css/2.558a6447.chunk.css",
+    "static/js/2.7d8615d1.chunk.js": "/static/js/2.7d8615d1.chunk.js",
+    "static/js/2.7d8615d1.chunk.js.map": "/static/js/2.7d8615d1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.558a6447.chunk.css.map": "/static/css/2.558a6447.chunk.css.map",
+    "static/css/main.a669907e.chunk.css.map": "/static/css/main.a669907e.chunk.css.map",
+    "static/js/2.7d8615d1.chunk.js.LICENSE.txt": "/static/js/2.7d8615d1.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.6d63d050.woff2",
+    "static/media/record.5ade4daf.svg": "/static/media/record.5ade4daf.svg",
+    "static/media/remixicon.css": "/static/media/remixicon.ae701515.eot",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/styles.module.scss": "/static/media/svg (1).53319e33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f71f331.js",
+    "static/css/2.558a6447.chunk.css",
+    "static/js/2.7d8615d1.chunk.js",
+    "static/css/main.a669907e.chunk.css",
+    "static/js/main.2800641c.chunk.js"
+  ]
+}

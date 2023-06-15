@@ -1,0 +1,52 @@
+/* .main_cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} */
+.parent-container {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 60%;
+    margin-left: 10%;
+    padding:30px;
+    margin-bottom: 40px;
+  }
+  .date_info{
+    font-weight: 600;
+    font-size: 15px;
+  }
+  .subject_info{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: -20px;
+  }
+  .blog{
+    font-size: 12px;
+  }
+  
+  .image-container {
+   
+    width: 400px;
+    height: 150px;
+    /* Add any desired styles for the image container */
+  }
+  
+  .text-container {
+    flex: 2;
+/* Add any desired styles for the text container */
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .parent-container {
+      flex-direction: column;
+    }
+  
+    .image-container, .text-container {
+      flex: none;
+      width: 100%;
+    }
+  }
