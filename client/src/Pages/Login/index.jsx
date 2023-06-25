@@ -49,9 +49,10 @@ const Login = () => {
          toast.success("Successfull Client login ");
       }
       else{
-        history.push("/");
+        history.push("/signup");
         toast.error("You are not Authorized yet by the Admin");
       }
+
       
     }
     } else {
